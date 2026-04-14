@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Full Stack Java Developer skilled in Java, Spring Boot, React.js, and REST APIs<br><br><br>🛠️ Experienced with MongoDB, MySQL, and modern frontend tools like Material UI<br><br>🚀 Built Campus Connect Hub to connect students with campus events and opportunities<br><br><br>📚 Strong foundation in problem-solving, OOP concepts, and clean code practices<br><br><br>🌱 Continuously learning and improving through projects, certifications, and hackathons<br><br>
+💻 Full Stack Java Developer skilled in Java, Spring Boot, React.js, and REST APIs<br><br>🛠️ Experienced with MongoDB, MySQL, and modern frontend tools like Material UI<br><br>🚀 Built Campus Connect Hub to connect students with campus events and opportunities<br><br>📚 Strong foundation in problem-solving, OOP concepts, and clean code practices<br><br>🌱 Continuously learning and improving through projects, certifications, and hackathons<br><br>
 
 
 ## 🌐 Socials:
